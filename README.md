@@ -11,4 +11,3 @@
 
 Ejecuta la aplicación en modo desarrollo.
 
-Tomar como base para futuros cambios.
